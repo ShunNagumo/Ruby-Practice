@@ -1,0 +1,1 @@
+puts "WEVCAMP".length
